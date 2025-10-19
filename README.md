@@ -5,3 +5,4 @@
 3. check for cpu resource consumption
 4. check if a certain file exists, create one if it doesn't
 5. create backups of files into backups folder
+6. clean up docker resources
