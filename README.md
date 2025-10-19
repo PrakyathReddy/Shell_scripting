@@ -3,3 +3,4 @@
 1. hello world script
 2. read input and use it in an echo command
 3. check for cpu resource consumption
+4. check if a certain file exists, create one if it doesn't
