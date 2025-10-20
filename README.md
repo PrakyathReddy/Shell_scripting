@@ -9,3 +9,4 @@
 7. monitor health of a service
 8. for loop
 9. ask name and greet
+10. for loop to list natural numbers from 1 to 50
