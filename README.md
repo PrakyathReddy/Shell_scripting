@@ -14,3 +14,5 @@
 12. Given two integers X and Y, find which one of them is greater
 13. Compare strings 
 14. Identify type of triangel - equilateral, isoceles, scalene
+15. A mathematical expression containing +,-,*,^, / and parenthesis will be provided. Read in the expression, then evaluate it. Display the result rounded to  decimal places.
+
