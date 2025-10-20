@@ -8,3 +8,4 @@
 6. clean up docker resources
 7. monitor health of a service
 8. for loop
+9. ask name and greet
