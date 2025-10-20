@@ -7,3 +7,4 @@
 5. create backups of files into backups folder
 6. clean up docker resources
 7. monitor health of a service
+8. for loop
