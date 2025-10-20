@@ -10,3 +10,5 @@
 8. for loop
 9. ask name and greet
 10. for loop to list natural numbers from 1 to 50
+11. Given two integers,  and , find their sum, difference, product, and quotient.
+
