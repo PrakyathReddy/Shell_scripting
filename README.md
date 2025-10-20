@@ -13,3 +13,4 @@
 11. Given two integers, X and Y, find their sum, difference, product, and quotient.
 12. Given two integers X and Y, find which one of them is greater
 13. Compare strings 
+14. Identify type of triangel - equilateral, isoceles, scalene
