@@ -10,5 +10,6 @@
 8. for loop
 9. ask name and greet
 10. for loop to list natural numbers from 1 to 50
-11. Given two integers,  and , find their sum, difference, product, and quotient.
-
+11. Given two integers, X and Y, find their sum, difference, product, and quotient.
+12. Given two integers X and Y, find which one of them is greater
+ 
